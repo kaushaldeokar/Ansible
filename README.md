@@ -39,6 +39,13 @@
 
    ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/3a758c75-126d-4066-877c-5533ebf3fb76)
 
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/692ce584-47bf-40e5-8175-00b8599114ec)
+
+9.   host -> can be written without the yaml format but specify proper [gcp--- ] for servers .
+   host.ini ->
+
+
+
    
 
 
