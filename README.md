@@ -35,6 +35,13 @@
    ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/2e11ab6c-602f-4789-949b-25725b19ed9c)
 
 
+8. YAML File Introduction : Indentation must be followed
+
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/3a758c75-126d-4066-877c-5533ebf3fb76)
+
+   
+
+
 
 
 
