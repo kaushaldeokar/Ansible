@@ -23,10 +23,17 @@
    ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/42372dd9-2f48-410f-bec1-e4cc8497efbf)
 
 7. How Public and Private keys Works i.e SSH keys
-   Public Key --> In remote server we have our public key
-   Private Key--> used inside our host file 
+   Public Key --> In remote server we have our public key via 
+   Private Key--> used inside our host file   
   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/a8bb86d4-42b6-4334-a91b-a8148579a684)
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/7b9ff3c8-0678-47a4-90ad-1ba4f196ade0)
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/5a9a0708-3597-47ac-a7fa-f0087b895b1d)
+
+
+
    ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/9f36ec06-6c89-4ad1-a439-f51e0dc573a9)
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/2e11ab6c-602f-4789-949b-25725b19ed9c)
+
 
 
 
