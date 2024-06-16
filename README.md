@@ -22,6 +22,12 @@
 6.PlayBook 
    ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/42372dd9-2f48-410f-bec1-e4cc8497efbf)
 
-7. 
+7. How Public and Private keys Works i.e SSH keys
+   Public Key --> In remote server we have our public key
+   Private Key--> used inside our host file 
+  ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/a8bb86d4-42b6-4334-a91b-a8148579a684)
+   ![image](https://github.com/kaushaldeokar/Ansible/assets/91072847/9f36ec06-6c89-4ad1-a439-f51e0dc573a9)
+
+
 
 
